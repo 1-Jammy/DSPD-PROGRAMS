@@ -1,4 +1,4 @@
-//Experiment 1: Array implementation of a list
+//Experiment 3: Array implementation of a list
 #include <stdio.h>
 #define MAX 100
 
